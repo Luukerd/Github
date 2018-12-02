@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/family?Roboto|Material-Icons");
+@import url("https://fonts.googleapis.com/family?Roboto|Material+Icons|Roboto+Mono");
 
 body{
 	background: #009685;
@@ -8,7 +8,7 @@ body{
 	padding: 0;
 }
 #main{
-	
+	font-family: "Roboto Mono", Roboto, Arial, Helvetica, sans-serif;
 	font-size: 18px;
 	padding: 18px;
 }
